@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @barruka
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning C# ASP.NET
+- 👀 I’m interested in C#, NodeJS
+- 🌱 I’m currently learning C# ASP.NET, NodeJS
